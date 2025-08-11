@@ -1,4 +1,5 @@
-💡 About Me
+## 💡 About Me
+
 I’m an IT graduate passionate about software development and problem-solving. Skilled in C#, JavaScript, Python, HTML, and SQL, I enjoy building clean and efficient code that solves real-world problems.
  ## 📩how to reach me cbonelo224@gmail.com
 
