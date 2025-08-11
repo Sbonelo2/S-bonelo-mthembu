@@ -15,11 +15,11 @@ I’m an IT graduate passionate about software development and problem-solving. 
 ## ⚙️Tools & Technologies
 Programming Languages: C#, JavaScript, Python, SQL
 
-- Web: HTML, CSS, JavaScript (vanilla)
+- Web: HTML, CSS, JavaScript 
 
 - Version Control: Git, GitHub
 
-- Database: MySQL, PostgreSQL (basic knowledge)
+- Database: MySQL, PostgreSQL 
 
 ## Goals
 I’m continuously learning and expanding my skills in full-stack development, cloud technologies, and open-source collaboration. I aim to contribute to impactful projects and grow as a developer.
